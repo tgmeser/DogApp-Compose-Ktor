@@ -1,7 +1,7 @@
 # DogApp-Compose-Ktor
 Simple Android App that uses local back-end service (Ktor)
 
-As base url, using IPv4 address works on Android emulator perfectly( http://192.168.1.2:8080 ). 
+As base url, using IPv4 address works on Android emulator perfectly( http://192.168.1.2:8080 ) same as back-end service. 
 There are some issues when we try to use localhost instead of IPv4 address( http://localhost:8080 ).
 If you use an application on port 8080 switch it to another.
 
